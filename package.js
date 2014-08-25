@@ -1,7 +1,8 @@
 Package.describe({
   summary: " Provide Document Transform on local Collection",
   version: "1.0.0",
-  git: ""
+  git: "",
+  name: "bads:doc-ctrl"
 });
 
 Package.onUse(function(api) {
