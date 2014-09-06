@@ -6,7 +6,7 @@ Package.describe({
 });
 
 Package.onUse(function(api) {
-  api.versionsFrom('METEOR-CORE@0.9.0-rc5');
+  api.versionsFrom('METEOR@0.9.2-rc1');
   api.use([
     'coffeescript',
     "spacebars-compiler",
